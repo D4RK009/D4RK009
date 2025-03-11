@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm dark (dark.exe7)</h1>
-- 🔭 I’m currently working on **Musical**
 
-- 🌱 I’m currently learning **Python**
+-  🔭 I’m currently working on **Musical**
 
-- 👯 I’m looking to collaborate on **Discord Bots!**
+-  🌱 I’m currently learning **Python**
+
+-  👯 I’m looking to collaborate on **Discord Bots!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
